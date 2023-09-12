@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphanet_x10 - Prints the lowercase English alphabet
+ * print_alphabet_x10 - Prints the lowercase English alphabet
  * from 'a' to 'z' ten times,
  * with each set of letters separated by a newline character.
  * Return: void
