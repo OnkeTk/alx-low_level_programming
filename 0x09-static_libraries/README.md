@@ -1,0 +1,1 @@
+contains my 0x09-static_libraries' project work
