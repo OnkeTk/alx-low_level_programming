@@ -13,10 +13,10 @@
 unsigned int binary_to_uint(const char *b)
 {
 	unsigned int len;
-       size_t x;
-      size_t y;
-     size_t sum;
-    size_t pow;
+	size_t x;
+	size_t y;
+	size_t sum;
+	size_t pow;
 	int base;
 
 	base = 2;
